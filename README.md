@@ -1,4 +1,4 @@
-# Dev Studio - Sample Template repo
+# IPP - EMEA repo
 
 This repo contains the content for tenants of Developer Studio.
 
