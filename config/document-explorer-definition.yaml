@@ -30,7 +30,7 @@
 
 - sections:
     - title: Getting Started
-      link:
+      link: docs/getting-started.md
       open: true
       sections:
         - title: Contact Us
